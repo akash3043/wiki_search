@@ -1,0 +1,111 @@
+
+body{
+  
+  background-color:#092B40
+}
+
+h1,h4{
+  
+  color:white;
+}
+
+.input-group{
+  
+  max-width:300px;
+  margin-left:auto;
+  margin-right:auto;
+ // border:3px solid #D96F32;
+   background-color:white;
+  padding:0px;
+  border-radius:10%;
+  
+}
+
+
+.list{
+  
+  background-color:white;
+  margin-top:10px;
+  margin-bottom:10px;
+  
+  padding:20px;
+  
+}
+
+.list:hover{
+  
+  border-left:3px solid #D96F32;
+}
+
+a{
+  
+  color : black
+}
+
+a:hover{
+  text-decoration:none;
+  color:black;
+  
+}
+
+a:active{
+  
+  text-decoration:none;
+  color:black;
+}
+
+a:visited{
+  
+  text-decoration:none;
+  color:black;
+}
+
+a:link{
+  text-decoration:none;
+  color:black;
+}
+
+#submitButton{
+  
+  background-color:#D96F32
+}
+
+
+#wikiInput{
+  
+  background-color:white;
+}
+
+*:focus{
+  
+  outline:none !important;
+  
+}
+
+#wikiInput:focus{
+  
+  box-shadow:none;
+   background-color:white
+}
+ 
+#randomDiv{
+  
+  max-width:300px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10px;
+  
+  
+ 
+    
+  }
+#random{
+  
+   
+ background-color:#D96F32;
+   border:  #D96F32
+}
+
+
+  
+
